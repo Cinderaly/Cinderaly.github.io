@@ -1,0 +1,10 @@
+diff a/cupcake.html b/cupcake.html	(rejected hunks)
+@@ -0,0 +1,8 @@
++<html>
++  <head>
++    <title> CUPCAKES </title>
++  </head>
++    <body>
++    Cupcakes are awesome
++    </body>
++</html>
